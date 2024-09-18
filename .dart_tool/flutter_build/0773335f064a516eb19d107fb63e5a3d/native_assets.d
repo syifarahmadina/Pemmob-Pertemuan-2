@@ -1,0 +1,1 @@
+ D:\\Android\ Studio\\PemmobPert2\\.dart_tool\\flutter_build\\0773335f064a516eb19d107fb63e5a3d\\native_assets.yaml: 
